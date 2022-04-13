@@ -3,8 +3,6 @@
  
  `git clone https://github.com/hed0xakep/lovaplanet.git`
 
- `pip install -r requirements.txt`
-
  `python manage.py runserver`
  
  ## Логика работы приложения
